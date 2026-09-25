@@ -1,0 +1,18 @@
+Job Title: Data Analyst
+
+About the role:
+We are looking for a Data Analyst to turn business data into clear insights for our product and operations teams.
+
+Requirements:
+- Bachelor's degree in Engineering, Statistics, Computer Science or a related field
+- 2+ years of experience in data analysis or business intelligence
+- Strong skills in SQL, Python and Excel
+- Experience building dashboards and reports in Power BI
+- Solid understanding of statistics and data visualization
+- Comfortable with data cleaning and preparing messy datasets
+- Excellent communication skills
+
+Nice to have:
+- Tableau
+- Experience with pandas, ETL pipelines and A/B testing
+- Familiarity with Snowflake or BigQuery

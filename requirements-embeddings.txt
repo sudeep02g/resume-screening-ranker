@@ -1,0 +1,2 @@
+# Optional: semantic similarity with sentence embeddings (downloads a model on first run; pulls in PyTorch)
+sentence-transformers>=2.2

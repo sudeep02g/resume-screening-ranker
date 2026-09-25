@@ -1,0 +1,17 @@
+Job Title: Data Engineer
+
+About the role:
+Design and maintain the data pipelines that power analytics across the company.
+
+Requirements:
+- Bachelor's degree in Computer Science or a related field
+- 3+ years of experience building data pipelines
+- Strong Python and SQL
+- Hands-on experience with Spark and Airflow
+- ETL design and cloud experience on AWS
+- Version control with Git
+
+Nice to have:
+- Kafka, Docker and Kubernetes
+- Snowflake or BigQuery
+- Linux

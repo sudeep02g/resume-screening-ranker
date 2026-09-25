@@ -1,0 +1,834 @@
+ID,Category,Resume_str
+R039,Data Engineer,"Candidate R039
+Email: candidate@example.com | Phone: +91 98765 43210
+
+Summary: Fresher aspiring Data Engineer; completed academic projects and an internship.
+
+Skills: python, sql, spark, airflow, etl, aws, docker
+
+Experience:
+Intern, Orbit Retail (3 months)
+
+Education:
+Bachelor of Commerce, City University (2021 - 2025)"
+R036,Data Scientist,"Candidate R036
+Email: candidate@example.com | Phone: +91 98765 43210
+
+Summary: Data Scientist with 4 years of experience in analytics and reporting.
+
+Skills: python, Machine Learning, statistics, NLP, deep learning, xgboost
+
+Experience:
+Data Scientist Associate, Northwind Analytics (2022 - 2024)
+Data Scientist, Orbit Retail (2024 - Present)
+
+Education:
+B.E. in Electronics, City University (2017 - 2021)"
+R028,BI Developer,"Candidate R028
+Email: candidate@example.com | Phone: +91 98765 43210
+
+Summary: BI Developer with 2 years of experience in analytics and reporting.
+
+Skills: sql, PowerBI, data analysis, dashboards, Advanced Excel, reporting, etl, power query, stakeholder management
+
+Experience:
+BI Developer Associate, Northwind Analytics (2024 - 2025)
+BI Developer, Zenith Software (2025 - Present)
+
+Education:
+Bachelor of Commerce, City University (2020 - 2024)"
+R004,Data Analyst,"Candidate R004
+Email: candidate@example.com | Phone: +91 98765 43210
+
+Summary: Data Analyst with 1 years of experience in analytics and reporting.
+
+Skills: python, MS Excel, tableau, data visualization, data cleaning, data analysis, pandas, a/b testing
+
+Experience:
+Data Analyst, Northwind Analytics (2025 - Present)
+
+Education:
+M.Tech in Data Science, City University (2021 - 2025)"
+R003,Data Analyst,"Candidate R003
+Email: candidate@example.com | Phone: +91 98765 43210
+
+Summary: Data Analyst with 2 years of experience in analytics and reporting.
+
+Skills: python, sql, MS Excel, Power BI, tableau, data visualization, statistics, data cleaning, data analysis, pandas, reporting, communication
+
+Experience:
+Data Analyst Associate, Northwind Analytics (2024 - 2025)
+Data Analyst, Orbit Retail (2025 - Present)
+
+Education:
+Diploma in Information Technology, City University (2020 - 2024)"
+R009,Data Analyst,"Candidate R009
+Email: candidate@example.com | Phone: +91 98765 43210
+
+Summary: Data Analyst with 1 years of experience in analytics and reporting.
+
+Skills: sql, Advanced Excel, Power BI, tableau, data cleaning, data analysis, numpy, dashboards, communication
+
+Experience:
+Data Analyst, Northwind Analytics (2025 - Present)
+
+Education:
+B.Tech in Computer Science, City University (2020 - 2024)"
+R046,Data Engineer,"Candidate R046
+Email: candidate@example.com | Phone: +91 98765 43210
+
+Summary: Data Engineer with 2 years of experience in analytics and reporting.
+
+Skills: python, spark, etl, aws
+
+Experience:
+Data Engineer Associate, Zenith Software (2024 - 2025)
+Data Engineer, Orbit Retail (2025 - Present)
+
+Education:
+B.E. in Electronics, City University (2020 - 2024)"
+R060,HR Executive,"Candidate R060
+Email: candidate@example.com | Phone: +91 98765 43210
+
+Summary: HR Executive with 2 years of experience in analytics and reporting.
+
+Skills: recruitment, talent acquisition, payroll, communication, Excel, teamwork, negotiation
+
+Experience:
+HR Executive Associate, Zenith Software (2024 - 2025)
+HR Executive, Zenith Software (2025 - Present)
+
+Education:
+M.Tech in Data Science, City University (2020 - 2024)"
+R001,Data Analyst,"Candidate R001
+Email: candidate@example.com | Phone: +91 98765 43210
+
+Summary: Fresher aspiring Data Analyst; completed academic projects and an internship.
+
+Skills: python, sql, Advanced Excel, PowerBI, tableau, statistics, data cleaning, data analysis, pandas, dashboards, reporting, a/b testing
+
+Experience:
+Intern, Orbit Retail (3 months)
+
+Education:
+B.E. in Electronics, City University (2022 - 2026)"
+R065,Sales Executive,"Candidate R065
+Email: candidate@example.com | Phone: +91 98765 43210
+
+Summary: Fresher aspiring Sales Executive; completed academic projects and an internship.
+
+Skills: sales, crm, salesforce, communication, teamwork, leadership
+
+Experience:
+Intern, Helio Finance (3 months)
+
+Education:
+MBA, City University (2022 - 2026)"
+R037,Data Scientist,"Candidate R037
+Email: candidate@example.com | Phone: +91 98765 43210
+
+Summary: Data Scientist with 2 years of experience in analytics and reporting.
+
+Skills: python, pandas, pytorch, matplotlib
+
+Experience:
+Data Scientist Associate, Orbit Retail (2024 - 2025)
+Data Scientist, Helio Finance (2025 - Present)
+
+Education:
+M.Tech in Data Science, City University (2020 - 2024)"
+R018,Data Analyst,"Candidate R018
+Email: candidate@example.com | Phone: +91 98765 43210
+
+Summary: Data Analyst with 3 years of experience in analytics and reporting.
+
+Skills: python, sql, Excel, Power BI, tableau, data visualization, statistics, data cleaning, data analysis, pandas, etl, communication
+
+Experience:
+Data Analyst Associate, Zenith Software (2023 - 2025)
+Data Analyst, Helio Finance (2025 - Present)
+
+Education:
+MBA, City University (2019 - 2023)"
+R066,Sales Executive,"Candidate R066
+Email: candidate@example.com | Phone: +91 98765 43210
+
+Summary: Sales Executive with 8 years of experience in analytics and reporting.
+
+Skills: sales, crm, salesforce, negotiation, communication, marketing, Excel, teamwork
+
+Experience:
+Sales Executive Associate, Northwind Analytics (2018 - 2022)
+Sales Executive, Helio Finance (2022 - Present)
+
+Education:
+MBA, City University (2013 - 2017)"
+R047,Web Developer,"Candidate R047
+Email: candidate@example.com | Phone: +91 98765 43210
+
+Summary: Web Developer with 1 years of experience in analytics and reporting.
+
+Skills: html, css, git, rest api, mongodb, angular, teamwork
+
+Experience:
+Web Developer, Orbit Retail (2025 - Present)
+
+Education:
+B.Tech in Computer Science, City University (2021 - 2025)"
+R002,Data Analyst,"Candidate R002
+Email: candidate@example.com | Phone: +91 98765 43210
+
+Summary: Data Analyst with 1 years of experience in analytics and reporting.
+
+Skills: python, MS Excel, PowerBI, tableau, data visualization, statistics, data cleaning, data analysis, pandas, dashboards, reporting, a/b testing, google sheets
+
+Experience:
+Data Analyst, Northwind Analytics (2025 - Present)
+
+Education:
+B.Tech in Computer Science, City University (2020 - 2024)"
+R042,Data Engineer,"Candidate R042
+Email: candidate@example.com | Phone: +91 98765 43210
+
+Summary: Data Engineer with 3 years of experience in analytics and reporting.
+
+Skills: python, sql, spark, airflow, aws, bigquery
+
+Experience:
+Data Engineer Associate, Helio Finance (2023 - 2025)
+Data Engineer, Zenith Software (2025 - Present)
+
+Education:
+Diploma in Information Technology, City University (2018 - 2022)"
+R045,Data Engineer,"Candidate R045
+Email: candidate@example.com | Phone: +91 98765 43210
+
+Summary: Data Engineer with 5 years of experience in analytics and reporting.
+
+Skills: python, sql, spark, airflow, kafka, linux
+
+Experience:
+Data Engineer Associate, Helio Finance (2021 - 2024)
+Data Engineer, Zenith Software (2024 - Present)
+
+Education:
+B.Tech in Computer Science, City University (2017 - 2021)"
+R029,Data Scientist,"Candidate R029
+Email: candidate@example.com | Phone: +91 98765 43210
+
+Summary: Data Scientist with 5 years of experience in analytics and reporting.
+
+Skills: python, ML, sklearn, statistics, pandas, sql, NLP, deep learning, numpy
+
+Experience:
+Data Scientist Associate, Orbit Retail (2021 - 2024)
+Data Scientist, Pinecone Logistics (2024 - Present)
+
+Education:
+M.Tech in Data Science, City University (2016 - 2020)"
+R051,Web Developer,"Candidate R051
+Email: candidate@example.com | Phone: +91 98765 43210
+
+Summary: Web Developer with 4 years of experience in analytics and reporting.
+
+Skills: css, javascript, rest api, mongodb, angular
+
+Experience:
+Web Developer Associate, Pinecone Logistics (2022 - 2024)
+Web Developer, Orbit Retail (2024 - Present)
+
+Education:
+Bachelor of Commerce, City University (2018 - 2022)"
+R057,HR Executive,"Candidate R057
+Email: candidate@example.com | Phone: +91 98765 43210
+
+Summary: HR Executive with 2 years of experience in analytics and reporting.
+
+Skills: recruitment, talent acquisition, payroll, communication
+
+Experience:
+HR Executive Associate, BlueLake Systems (2024 - 2025)
+HR Executive, Helio Finance (2025 - Present)
+
+Education:
+MBA, City University (2020 - 2024)"
+R024,BI Developer,"Candidate R024
+Email: candidate@example.com | Phone: +91 98765 43210
+
+Summary: Fresher aspiring BI Developer; completed academic projects and an internship.
+
+Skills: Power BI, dax, data analysis, dashboards, Advanced Excel, tableau
+
+Experience:
+Intern, Northwind Analytics (3 months)
+
+Education:
+Bachelor of Commerce, City University (2022 - 2026)"
+R053,Web Developer,"Candidate R053
+Email: candidate@example.com | Phone: +91 98765 43210
+
+Summary: Web Developer with 8 years of experience in analytics and reporting.
+
+Skills: css, javascript, node.js, git, angular
+
+Experience:
+Web Developer Associate, BlueLake Systems (2018 - 2022)
+Web Developer, BlueLake Systems (2022 - Present)
+
+Education:
+B.Tech in Computer Science, City University (2014 - 2018)"
+R027,BI Developer,"Candidate R027
+Email: candidate@example.com | Phone: +91 98765 43210
+
+Summary: BI Developer with 8 years of experience in analytics and reporting.
+
+Skills: sql, PowerBI, dax, data analysis, dashboards, Excel, reporting, snowflake, power query
+
+Experience:
+BI Developer Associate, Helio Finance (2018 - 2022)
+BI Developer, Pinecone Logistics (2022 - Present)
+
+Education:
+B.E. in Electronics, City University (2013 - 2017)"
+R059,HR Executive,"Candidate R059
+Email: candidate@example.com | Phone: +91 98765 43210
+
+Summary: HR Executive with 4 years of experience in analytics and reporting.
+
+Skills: talent acquisition, payroll, communication
+
+Experience:
+HR Executive Associate, Northwind Analytics (2022 - 2024)
+HR Executive, Orbit Retail (2024 - Present)
+
+Education:
+B.E. in Electronics, City University (2017 - 2021)"
+R019,Data Analyst,"Candidate R019
+Email: candidate@example.com | Phone: +91 98765 43210
+
+Summary: Data Analyst with 8 years of experience in analytics and reporting.
+
+Skills: sql, Advanced Excel, PowerBI, tableau, data visualization, statistics, data analysis, pandas, dashboards, reporting
+
+Experience:
+Data Analyst Associate, Helio Finance (2018 - 2022)
+Data Analyst, Helio Finance (2022 - Present)
+
+Education:
+B.Sc in Statistics, City University (2013 - 2017)"
+R030,Data Scientist,"Candidate R030
+Email: candidate@example.com | Phone: +91 98765 43210
+
+Summary: Data Scientist with 1 years of experience in analytics and reporting.
+
+Skills: python, ML, statistics, pytorch, deep learning
+
+Experience:
+Data Scientist, BlueLake Systems (2025 - Present)
+
+Education:
+B.E. in Electronics, City University (2021 - 2025)"
+R054,Web Developer,"Candidate R054
+Email: candidate@example.com | Phone: +91 98765 43210
+
+Summary: Web Developer with 1 years of experience in analytics and reporting.
+
+Skills: css, react, node.js, rest api, typescript, mongodb, docker, teamwork
+
+Experience:
+Web Developer, Orbit Retail (2025 - Present)
+
+Education:
+MBA, City University (2021 - 2025)"
+R040,Data Engineer,"Candidate R040
+Email: candidate@example.com | Phone: +91 98765 43210
+
+Summary: Data Engineer with 4 years of experience in analytics and reporting.
+
+Skills: python, sql, spark, airflow, etl, aws, docker, bigquery
+
+Experience:
+Data Engineer Associate, Northwind Analytics (2022 - 2024)
+Data Engineer, Orbit Retail (2024 - Present)
+
+Education:
+B.Sc in Statistics, City University (2018 - 2022)"
+R021,BI Developer,"Candidate R021
+Email: candidate@example.com | Phone: +91 98765 43210
+
+Summary: BI Developer with 2 years of experience in analytics and reporting.
+
+Skills: sql, Power BI, dax, data analysis, dashboards, MS Excel, reporting, power query, communication, stakeholder management
+
+Experience:
+BI Developer Associate, BlueLake Systems (2024 - 2025)
+BI Developer, BlueLake Systems (2025 - Present)
+
+Education:
+Bachelor of Commerce, City University (2020 - 2024)"
+R025,BI Developer,"Candidate R025
+Email: candidate@example.com | Phone: +91 98765 43210
+
+Summary: BI Developer with 1 years of experience in analytics and reporting.
+
+Skills: PowerBI, dax, data analysis, dashboards, MS Excel, reporting, tableau, power query
+
+Experience:
+BI Developer, Zenith Software (2025 - Present)
+
+Education:
+B.E. in Electronics, City University (2021 - 2025)"
+R031,Data Scientist,"Candidate R031
+Email: candidate@example.com | Phone: +91 98765 43210
+
+Summary: Data Scientist with 3 years of experience in analytics and reporting.
+
+Skills: python, sklearn, statistics, pandas, sql, deep learning, xgboost, numpy
+
+Experience:
+Data Scientist Associate, Helio Finance (2023 - 2025)
+Data Scientist, Northwind Analytics (2025 - Present)
+
+Education:
+B.Sc in Statistics, City University (2019 - 2023)"
+R035,Data Scientist,"Candidate R035
+Email: candidate@example.com | Phone: +91 98765 43210
+
+Summary: Fresher aspiring Data Scientist; completed academic projects and an internship.
+
+Skills: python, ML, scikit-learn, statistics, pandas, NLP, deep learning
+
+Experience:
+Intern, Helio Finance (3 months)
+
+Education:
+B.E. in Electronics, City University (2021 - 2025)"
+R052,Web Developer,"Candidate R052
+Email: candidate@example.com | Phone: +91 98765 43210
+
+Summary: Web Developer with 1 years of experience in analytics and reporting.
+
+Skills: html, css, javascript, node.js, typescript, mongodb
+
+Experience:
+Web Developer, Pinecone Logistics (2025 - Present)
+
+Education:
+Diploma in Information Technology, City University (2021 - 2025)"
+R063,Sales Executive,"Candidate R063
+Email: candidate@example.com | Phone: +91 98765 43210
+
+Summary: Sales Executive with 6 years of experience in analytics and reporting.
+
+Skills: sales, crm, salesforce, negotiation, communication, leadership
+
+Experience:
+Sales Executive Associate, Helio Finance (2020 - 2023)
+Sales Executive, Northwind Analytics (2023 - Present)
+
+Education:
+B.Tech in Computer Science, City University (2016 - 2020)"
+R012,Data Analyst,"Candidate R012
+Email: candidate@example.com | Phone: +91 98765 43210
+
+Summary: Data Analyst with 5 years of experience in analytics and reporting.
+
+Skills: python, sql, PowerBI, statistics, data cleaning, data analysis, pandas, reporting, etl, communication, a/b testing, google sheets
+
+Experience:
+Data Analyst Associate, Zenith Software (2021 - 2024)
+Data Analyst, Pinecone Logistics (2024 - Present)
+
+Education:
+B.E. in Electronics, City University (2016 - 2020)"
+R044,Data Engineer,"Candidate R044
+Email: candidate@example.com | Phone: +91 98765 43210
+
+Summary: Data Engineer with 2 years of experience in analytics and reporting.
+
+Skills: python, sql, spark, etl, aws, docker, bigquery
+
+Experience:
+Data Engineer Associate, Pinecone Logistics (2024 - 2025)
+Data Engineer, Northwind Analytics (2025 - Present)
+
+Education:
+MBA, City University (2020 - 2024)"
+R017,Data Analyst,"Candidate R017
+Email: candidate@example.com | Phone: +91 98765 43210
+
+Summary: Data Analyst with 3 years of experience in analytics and reporting.
+
+Skills: python, Advanced Excel, data visualization, data cleaning, pandas, a/b testing, google sheets
+
+Experience:
+Data Analyst Associate, Northwind Analytics (2023 - 2025)
+Data Analyst, Pinecone Logistics (2025 - Present)
+
+Education:
+M.Tech in Data Science, City University (2019 - 2023)"
+R058,HR Executive,"Candidate R058
+Email: candidate@example.com | Phone: +91 98765 43210
+
+Summary: HR Executive with 1 years of experience in analytics and reporting.
+
+Skills: recruitment, talent acquisition, payroll, communication, teamwork, leadership
+
+Experience:
+HR Executive, Northwind Analytics (2025 - Present)
+
+Education:
+B.Tech in Computer Science, City University (2021 - 2025)"
+R007,Data Analyst,"Candidate R007
+Email: candidate@example.com | Phone: +91 98765 43210
+
+Summary: Data Analyst with 6 years of experience in analytics and reporting.
+
+Skills: python, Power BI, tableau, data visualization, statistics, data analysis, pandas, reporting, etl
+
+Experience:
+Data Analyst Associate, BlueLake Systems (2020 - 2023)
+Data Analyst, Northwind Analytics (2023 - Present)
+
+Education:
+MBA, City University (2016 - 2020)"
+R016,Data Analyst,"Candidate R016
+Email: candidate@example.com | Phone: +91 98765 43210
+
+Summary: Data Analyst with 1 years of experience in analytics and reporting.
+
+Skills: python, sql, Advanced Excel, PowerBI, tableau, data visualization, statistics, data cleaning, data analysis, dashboards, etl
+
+Experience:
+Data Analyst, Northwind Analytics (2025 - Present)
+
+Education:
+Bachelor of Commerce, City University (2021 - 2025)"
+R010,Data Analyst,"Candidate R010
+Email: candidate@example.com | Phone: +91 98765 43210
+
+Summary: Data Analyst with 2 years of experience in analytics and reporting.
+
+Skills: python, sql, Advanced Excel, Power BI, tableau, data visualization, statistics, data analysis, google sheets
+
+Experience:
+Data Analyst Associate, Pinecone Logistics (2024 - 2025)
+Data Analyst, Orbit Retail (2025 - Present)
+
+Education:
+B.Sc in Statistics, City University (2020 - 2024)"
+R043,Data Engineer,"Candidate R043
+Email: candidate@example.com | Phone: +91 98765 43210
+
+Summary: Fresher aspiring Data Engineer; completed academic projects and an internship.
+
+Skills: python, aws, kafka
+
+Experience:
+Intern, Orbit Retail (3 months)
+
+Education:
+Bachelor of Commerce, City University (2022 - 2026)"
+R023,BI Developer,"Candidate R023
+Email: candidate@example.com | Phone: +91 98765 43210
+
+Summary: Fresher aspiring BI Developer; completed academic projects and an internship.
+
+Skills: sql, Power BI, dax, data analysis, dashboards, MS Excel, reporting, snowflake, communication
+
+Experience:
+Intern, Pinecone Logistics (3 months)
+
+Education:
+MBA, City University (2021 - 2025)"
+R013,Data Analyst,"Candidate R013
+Email: candidate@example.com | Phone: +91 98765 43210
+
+Summary: Fresher aspiring Data Analyst; completed academic projects and an internship.
+
+Skills: python, sql, PowerBI, data visualization, data analysis, pandas, numpy, dashboards, a/b testing
+
+Experience:
+Intern, Orbit Retail (3 months)
+
+Education:
+B.Tech in Computer Science, City University (2021 - 2025)"
+R049,Web Developer,"Candidate R049
+Email: candidate@example.com | Phone: +91 98765 43210
+
+Summary: Web Developer with 2 years of experience in analytics and reporting.
+
+Skills: rest api, mongodb
+
+Experience:
+Web Developer Associate, Pinecone Logistics (2024 - 2025)
+Web Developer, Orbit Retail (2025 - Present)
+
+Education:
+M.Tech in Data Science, City University (2020 - 2024)"
+R061,Sales Executive,"Candidate R061
+Email: candidate@example.com | Phone: +91 98765 43210
+
+Summary: Fresher aspiring Sales Executive; completed academic projects and an internship.
+
+Skills: sales, crm, communication, marketing, teamwork, leadership
+
+Experience:
+Intern, Zenith Software (3 months)
+
+Education:
+B.Sc in Statistics, City University (2022 - 2026)"
+R008,Data Analyst,"Candidate R008
+Email: candidate@example.com | Phone: +91 98765 43210
+
+Summary: Data Analyst with 4 years of experience in analytics and reporting.
+
+Skills: python, sql, MS Excel, PowerBI, tableau, data visualization, data analysis, pandas, dashboards, reporting
+
+Experience:
+Data Analyst Associate, Orbit Retail (2022 - 2024)
+Data Analyst, Helio Finance (2024 - Present)
+
+Education:
+B.Sc in Statistics, City University (2018 - 2022)"
+R041,Data Engineer,"Candidate R041
+Email: candidate@example.com | Phone: +91 98765 43210
+
+Summary: Data Engineer with 5 years of experience in analytics and reporting.
+
+Skills: python, sql, spark, airflow, etl, docker
+
+Experience:
+Data Engineer Associate, Helio Finance (2021 - 2024)
+Data Engineer, Northwind Analytics (2024 - Present)
+
+Education:
+B.Tech in Computer Science, City University (2016 - 2020)"
+R033,Data Scientist,"Candidate R033
+Email: candidate@example.com | Phone: +91 98765 43210
+
+Summary: Data Scientist with 2 years of experience in analytics and reporting.
+
+Skills: python, ML, statistics, pandas, sql, tensorflow, pytorch, NLP, deep learning, matplotlib
+
+Experience:
+Data Scientist Associate, Northwind Analytics (2024 - 2025)
+Data Scientist, Pinecone Logistics (2025 - Present)
+
+Education:
+Bachelor of Commerce, City University (2019 - 2023)"
+R005,Data Analyst,"Candidate R005
+Email: candidate@example.com | Phone: +91 98765 43210
+
+Summary: Data Analyst with 1 years of experience in analytics and reporting.
+
+Skills: python, sql, Advanced Excel, PowerBI, tableau, data visualization, statistics, data cleaning, data analysis, dashboards, a/b testing, google sheets
+
+Experience:
+Data Analyst, Zenith Software (2025 - Present)
+
+Education:
+MBA, City University (2021 - 2025)"
+R011,Data Analyst,"Candidate R011
+Email: candidate@example.com | Phone: +91 98765 43210
+
+Summary: Data Analyst with 6 years of experience in analytics and reporting.
+
+Skills: Power BI, data visualization, statistics, pandas, numpy, reporting
+
+Experience:
+Data Analyst Associate, Pinecone Logistics (2020 - 2023)
+Data Analyst, Pinecone Logistics (2023 - Present)
+
+Education:
+Bachelor of Commerce, City University (2016 - 2020)"
+R050,Web Developer,"Candidate R050
+Email: candidate@example.com | Phone: +91 98765 43210
+
+Summary: Fresher aspiring Web Developer; completed academic projects and an internship.
+
+Skills: html, css, git, rest api, docker, teamwork
+
+Experience:
+Intern, Northwind Analytics (3 months)
+
+Education:
+Bachelor of Commerce, City University (2022 - 2026)"
+R055,HR Executive,"Candidate R055
+Email: candidate@example.com | Phone: +91 98765 43210
+
+Summary: Fresher aspiring HR Executive; completed academic projects and an internship.
+
+Skills: recruitment, talent acquisition, communication
+
+Experience:
+Intern, Helio Finance (3 months)
+
+Education:
+B.Tech in Computer Science, City University (2022 - 2026)"
+R015,Data Analyst,"Candidate R015
+Email: candidate@example.com | Phone: +91 98765 43210
+
+Summary: Data Analyst with 2 years of experience in analytics and reporting.
+
+Skills: MS Excel, tableau, numpy, reporting
+
+Experience:
+Data Analyst Associate, Helio Finance (2024 - 2025)
+Data Analyst, Northwind Analytics (2025 - Present)
+
+Education:
+B.Sc in Statistics, City University (2019 - 2023)"
+R022,BI Developer,"Candidate R022
+Email: candidate@example.com | Phone: +91 98765 43210
+
+Summary: BI Developer with 5 years of experience in analytics and reporting.
+
+Skills: sql, PowerBI, dax, data analysis, dashboards, Excel, tableau, power query
+
+Experience:
+BI Developer Associate, Helio Finance (2021 - 2024)
+BI Developer, Zenith Software (2024 - Present)
+
+Education:
+B.Tech in Computer Science, City University (2017 - 2021)"
+R048,Web Developer,"Candidate R048
+Email: candidate@example.com | Phone: +91 98765 43210
+
+Summary: Web Developer with 3 years of experience in analytics and reporting.
+
+Skills: html, css, javascript, node.js, rest api, typescript
+
+Experience:
+Web Developer Associate, Helio Finance (2023 - 2025)
+Web Developer, Northwind Analytics (2025 - Present)
+
+Education:
+B.E. in Electronics, City University (2019 - 2023)"
+R020,Data Analyst,"Candidate R020
+Email: candidate@example.com | Phone: +91 98765 43210
+
+Summary: Data Analyst with 5 years of experience in analytics and reporting.
+
+Skills: sql, tableau, data visualization, statistics, data analysis, pandas, numpy
+
+Experience:
+Data Analyst Associate, Zenith Software (2021 - 2024)
+Data Analyst, Helio Finance (2024 - Present)
+
+Education:
+M.Tech in Data Science, City University (2016 - 2020)"
+R064,Sales Executive,"Candidate R064
+Email: candidate@example.com | Phone: +91 98765 43210
+
+Summary: Sales Executive with 1 years of experience in analytics and reporting.
+
+Skills: crm, negotiation, communication, Excel, teamwork, leadership
+
+Experience:
+Sales Executive, Orbit Retail (2025 - Present)
+
+Education:
+B.E. in Electronics, City University (2021 - 2025)"
+R062,Sales Executive,"Candidate R062
+Email: candidate@example.com | Phone: +91 98765 43210
+
+Summary: Sales Executive with 3 years of experience in analytics and reporting.
+
+Skills: sales, crm, negotiation, communication, marketing, teamwork, leadership
+
+Experience:
+Sales Executive Associate, Zenith Software (2023 - 2025)
+Sales Executive, Northwind Analytics (2025 - Present)
+
+Education:
+B.E. in Electronics, City University (2018 - 2022)"
+R006,Data Analyst,"Candidate R006
+Email: candidate@example.com | Phone: +91 98765 43210
+
+Summary: Data Analyst with 2 years of experience in analytics and reporting.
+
+Skills: python, sql, Advanced Excel, Power BI, tableau, data visualization, statistics, data cleaning, etl, communication
+
+Experience:
+Data Analyst Associate, Northwind Analytics (2024 - 2025)
+Data Analyst, Pinecone Logistics (2025 - Present)
+
+Education:
+B.Tech in Computer Science, City University (2020 - 2024)"
+R034,Data Scientist,"Candidate R034
+Email: candidate@example.com | Phone: +91 98765 43210
+
+Summary: Data Scientist with 8 years of experience in analytics and reporting.
+
+Skills: python, pandas, sql, tensorflow, pytorch, NLP, deep learning, xgboost
+
+Experience:
+Data Scientist Associate, Helio Finance (2018 - 2022)
+Data Scientist, Pinecone Logistics (2022 - Present)
+
+Education:
+Bachelor of Commerce, City University (2014 - 2018)"
+R026,BI Developer,"Candidate R026
+Email: candidate@example.com | Phone: +91 98765 43210
+
+Summary: BI Developer with 8 years of experience in analytics and reporting.
+
+Skills: sql, data analysis, Excel, etl, stakeholder management
+
+Experience:
+BI Developer Associate, Zenith Software (2018 - 2022)
+BI Developer, Helio Finance (2022 - Present)
+
+Education:
+B.E. in Electronics, City University (2014 - 2018)"
+R038,Data Scientist,"Candidate R038
+Email: candidate@example.com | Phone: +91 98765 43210
+
+Summary: Data Scientist with 1 years of experience in analytics and reporting.
+
+Skills: python, ML, sklearn, statistics, pandas, sql, tensorflow, NLP, xgboost
+
+Experience:
+Data Scientist, Helio Finance (2025 - Present)
+
+Education:
+MBA, City University (2020 - 2024)"
+R056,HR Executive,"Candidate R056
+Email: candidate@example.com | Phone: +91 98765 43210
+
+Summary: HR Executive with 8 years of experience in analytics and reporting.
+
+Skills: recruitment, payroll, Excel, teamwork, leadership
+
+Experience:
+HR Executive Associate, Helio Finance (2018 - 2022)
+HR Executive, Zenith Software (2022 - Present)
+
+Education:
+M.Tech in Data Science, City University (2013 - 2017)"
+R032,Data Scientist,"Candidate R032
+Email: candidate@example.com | Phone: +91 98765 43210
+
+Summary: Data Scientist with 6 years of experience in analytics and reporting.
+
+Skills: python, ML, sklearn, statistics, pandas, sql, tensorflow, NLP, matplotlib
+
+Experience:
+Data Scientist Associate, Orbit Retail (2020 - 2023)
+Data Scientist, Zenith Software (2023 - Present)
+
+Education:
+MBA, City University (2016 - 2020)"
+R014,Data Analyst,"Candidate R014
+Email: candidate@example.com | Phone: +91 98765 43210
+
+Summary: Fresher aspiring Data Analyst; completed academic projects and an internship.
+
+Skills: python, sql, Power BI, tableau, data cleaning, numpy, dashboards, reporting, a/b testing, google sheets
+
+Experience:
+Intern, Pinecone Logistics (3 months)
+
+Education:
+Bachelor of Commerce, City University (2022 - 2026)"

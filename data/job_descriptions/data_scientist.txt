@@ -1,0 +1,17 @@
+Job Title: Data Scientist
+
+About the role:
+Build and deploy machine learning models that improve our recommendation and forecasting systems.
+
+Requirements:
+- Bachelor's or Master's degree in Computer Science, Statistics, Mathematics or a related field
+- 3+ years of experience building machine learning models
+- Strong Python, pandas and scikit-learn skills
+- Good knowledge of statistics and feature engineering
+- Experience writing SQL queries against large datasets
+- Ability to explain results to non-technical stakeholders (communication)
+
+Nice to have:
+- Deep learning with TensorFlow or PyTorch
+- Natural language processing
+- XGBoost, Docker and AWS
