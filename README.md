@@ -3,8 +3,6 @@
 A data-analytics capstone project that screens resumes against a job description (JD), ranks candidates and
 explains every score. Built with Python, scikit-learn and Streamlit.
 
-> **Status:** working end-to-end baseline. Replace the sample data with your real dataset and fill in the
-> *Results* section below before submitting.
 
 ## What it does
 
