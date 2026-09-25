@@ -114,8 +114,6 @@ reliable numbers.
 
 ## Dataset
 
-## Dataset
-
 The sample resumes in `data/sample_resumes.csv` are synthetic. The Results below were produced using the
 [Kaggle Resume Dataset](https://www.kaggle.com/datasets/snehaanbhawal/resume-dataset), which is not included in
 this repository (real resumes shouldn't be committed to a public repo). To reproduce the results:
