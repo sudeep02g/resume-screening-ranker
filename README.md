@@ -1,4 +1,5 @@
 # AI-Powered Resume Screening & Candidate Ranking System
+https://resume-screening-ranker.streamlit.app/
 
 A data-analytics capstone project that screens resumes against a job description (JD), ranks candidates and
 explains every score. Built with Python, scikit-learn and Streamlit.
