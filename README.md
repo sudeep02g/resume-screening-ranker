@@ -21,8 +21,9 @@ explains every score. Built with Python, scikit-learn and Streamlit.
 ├── app/streamlit_app.py        # dashboard
 ├── data/
 │   ├── job_descriptions/       # sample JDs (.txt)
-│   ├── sample_resumes.csv      # SYNTHETIC resumes for testing
-│   └── sample_labels_data_analyst.csv   # toy labels for testing the evaluation code
+│   ├── sample_resumes.csv      # SYNTHETIC resumes for quick testing
+│   ├── labels.csv              # hand-labelled resumes used for evaluation
+│   └── raw/                    # put the Kaggle Resume Dataset CSV here (not included, see Dataset below)
 ├── src/
 │   ├── skills.py               # skill dictionary + aliases (edit to add skills)
 │   ├── parser.py               # file readers, text cleaning, PII redaction
@@ -31,6 +32,7 @@ explains every score. Built with Python, scikit-learn and Streamlit.
 │   ├── evaluate.py             # Precision@K, NDCG@K, Spearman
 │   └── generate_sample_data.py # creates the synthetic sample data
 ├── tests/                      # pytest unit tests
+├── label_resumes.py            # interactive tool for hand-labelling resumes
 ├── run_pipeline.py             # command-line interface
 └── requirements.txt
 ```
@@ -77,7 +79,7 @@ the remaining weights are re-normalised. Weights can be changed in the dashboard
 ## Results
 
 Evaluated against 20 hand-labelled resumes from the Kaggle Resume Dataset (0 = not a fit, 1 = partial fit,
-2 = good fit for the Data Analyst role; 5 were labelled a good fit).
+2 = good fit for the Data Analyst role; 5 were labelled a good fit). (Semantic/embedding similarity was not used for this evaluation run — see `--no-embeddings` above — so the final score here is skills + TF-IDF + experience + education only.)
 
 | Method | P@3 | P@5 | P@10 | NDCG@3 | NDCG@5 | NDCG@10 | Spearman |
 |---|---|---|---|---|---|---|---|
@@ -112,9 +114,11 @@ reliable numbers.
 
 ## Dataset
 
-Sample data in this repo is synthetic. For the main evaluation, use a public dataset such as the Kaggle
-*Resume Dataset* (check its license and cite it here).
+## Dataset
 
-## License
+The sample resumes in `data/sample_resumes.csv` are synthetic. The Results below were produced using the
+[Kaggle Resume Dataset](https://www.kaggle.com/datasets/snehaanbhawal/resume-dataset), which is not included in
+this repository (real resumes shouldn't be committed to a public repo). To reproduce the results:
 
-MIT (add a `LICENSE` file if you want to publish under this license).
+1. Download the dataset from Kaggle and place `Resume.csv` in `data/raw/`.
+2. Run: `python run_pipeline.py --jd data/job_descriptions/data_analyst.txt --resumes data/raw/Resume.csv --no-embeddings --labels data/labels.csv`
